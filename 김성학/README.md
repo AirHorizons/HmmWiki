@@ -8,8 +8,8 @@
 
 ### 김성학 사진전
 
-![](./Images/KSH/TA-SH.jpeg)
+![](../Images/KSH/TA-SH.jpeg)
 
-![](./Images/KSH/TA-SH2.jpeg)
+![](../Images/KSH/TA-SH2.jpeg)
 
-![](./Images/KSH/TA-SH3.jpeg)
+![](../Images/KSH/TA-SH3.jpeg)

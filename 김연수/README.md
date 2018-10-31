@@ -5,4 +5,4 @@
 ## 그의 ~~개새끼~~강아지 pitt
 > ~~개새끼~~는 김연수 본인의 요청입니다
 
-![pitt the puppy](Images/PITT_YSK.png)
+![pitt the puppy](../Images/PITT_YSK.png)
