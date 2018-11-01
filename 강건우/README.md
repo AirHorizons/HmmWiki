@@ -12,6 +12,14 @@
 
 ## 흑역사
 
+ASKY에 몸을 담그던 시절의 강건우. 
+
 ![](../Images/KGW/KK.jpeg)
 
+어둠의 한남 강건우
+
 ![](../Images/KGW/KK2.jpeg)
+
+홍대에서 스트립쇼를 아직도 안 한 강건우
+
+![](../Images/KGW/Photoshop.png)
