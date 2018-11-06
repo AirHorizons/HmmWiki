@@ -32,4 +32,4 @@ BIG BROTHER WAS WATCHING US!!!!
 
 전공설계1 소감문 ㅎㅎㅎ
 
-![](./Images/20140611_170054.jpg)
+![](../Images/20140611_170054.jpg)
